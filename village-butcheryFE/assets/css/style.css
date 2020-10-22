@@ -14,6 +14,9 @@ body{
 .h-3{
 	font-size: 16px;
 }
+.h-4{
+    font-size: 14px;
+}
 .semi-bold{
     font-weight: 600;
 }

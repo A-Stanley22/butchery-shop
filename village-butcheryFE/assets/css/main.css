@@ -7,7 +7,7 @@
     height: 100vh;
 }
 .sign-img{
-    background-image: url('../images/breadcrumb.jpg');  
+    background-image: url('../images/blog-4.jpg');  
     background-repeat: no-repeat;
     background-size: cover; 
     height: 100vh;
@@ -19,6 +19,14 @@
 }
 .con-address{
     padding: 80px 65px 0px 50px;
+}
+
+/*Order page*/
+.order-bg{
+    background-image: url('../images/blog-4.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 350px;
 }
 
 /*shopping cart page*/
