@@ -14,6 +14,12 @@ body{
 .h-3{
 	font-size: 16px;
 }
+.h-4{
+    font-size: 14px;
+}
+.h-2{
+    font-size: 20px;
+}
 .semi-bold{
     font-weight: 600;
 }
@@ -45,6 +51,9 @@ body{
 }
 .bg-lgt-green{
     background-color: #28A000;
+}
+.bg-gray {
+    background-color: #F5F2F5;
 }
 .text-orange{
     color: #EE6830;
