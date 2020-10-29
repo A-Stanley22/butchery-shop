@@ -235,8 +235,8 @@
     background-image: url('../images/blog-4.jpg');  
     background-repeat: no-repeat;
     background-size: cover; 
+    height: 100vh;
 }
-
 
 
 /*responsiveness*/
@@ -250,10 +250,22 @@
 	.reg {
     padding: 35px 39px;
 	}
+	.box-text{
+    font-size: 10px;
+	}
+	.box-quote{
+    font-size: 12px;
+	}
+	.slick-next {
+    right: 1px !important;
+	}
 }
 
 @media (max-width: 379px){
 	.reg {
     padding: 35px 35px;
+	}
+	.customer-bg{
+    height: 110vh;
 	}
 }
