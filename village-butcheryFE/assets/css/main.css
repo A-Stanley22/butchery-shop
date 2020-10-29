@@ -227,12 +227,28 @@
 	text-align: center;
 }
 
+/*customer page*/
+.box-shad {
+    box-shadow: 0px 6px 9px #00000029;
+}
+.customer-bg{
+    background-image: url('../images/blog-4.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
 
 
 /*responsiveness*/
 @media (max-width: 650px){
 	.sign-img{
     height: 25vh;
+	}
+	.send-meg-wrap {
+    padding: 55px 50px;
+	}
+	.reg {
+    padding: 35px 39px;
 	}
 }
 
